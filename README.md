@@ -10,8 +10,8 @@
 
 <div align="center">
   <h2>👨‍💻 About Me</h2>
-  <p>안녕하세요! 알고리즘 문제 해결과 웹 개발에 열정적인 개발자입니다.<br>
-  깔끔한 코드와 효율적인 솔루션을 추구하며, 지속적인 성장을 위해 노력하고 있습니다.</p>
+  <p>안녕하세요! 개발이 재미 없어지고 있는 개발자입니다.<br>
+  어려운 방법보다 단순하고 간단한 방법을 좋아합니다, 지속적인 성장을 위해 노력은 하고 있습니당~</p>
 </div>
 
 <div>
@@ -33,14 +33,6 @@
   <p>
     <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  </p>
-</div>
-
-<div>
-  <h2>📊 GitHub Stats</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
   </p>
 </div>
 
