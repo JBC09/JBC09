@@ -5,9 +5,6 @@
     <a href="https://solved.ac/chanbin5634/" target="_blank">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chanbin5634" alt="Solved.ac Profile" />
     </a>
-    <a href="https://github.com/yourusername" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
   </p>
 </div>
 
