@@ -53,7 +53,7 @@
     <a href="mailto:chanbin5634@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="/https://cold-bean.tistory.com/" target="_blank">
+    <a href="https://cold-bean.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
     </a>
   </p>
