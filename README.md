@@ -29,11 +29,16 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   </p>
   
-  <h3>🔧 Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  </p>
+ <h3>🔧 Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
+  <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" alt="SourceTree">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Claude-101010?style=for-the-badge&logoColor=white" alt="Claude">
+</p>
 </div>
 
 <div align="center">
