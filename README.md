@@ -1,6 +1,7 @@
 <div align="center">
   <h1>👋 Hi there, I'm Chanbin!</h1>
-  
+  <img width="346" height="167" alt="스크린샷 2025-08-13 101052" src="https://github.com/user-attachments/assets/c4e45bf2-0f57-4380-8381-04fec1e1ba75" />
+
   <p>
     <a href="https://solved.ac/chanbin5634/" target="_blank">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chanbin5634" alt="Solved.ac Profile" />
