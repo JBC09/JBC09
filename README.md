@@ -1,7 +1,9 @@
-<div align="center">
+<div align="left">
   <h1>👋 Hi there, I'm Chanbin!</h1>
   <img width="346" height="167" alt="스크린샷 2025-08-13 101052" src="https://github.com/user-attachments/assets/c4e45bf2-0f57-4380-8381-04fec1e1ba75" />
-
+  <h2>👨‍💻 About Me</h2>
+  <p>안녕하세요! 개발이 재미 없어지고 있는 개발자입니다.<br>
+  어려운 방법보다 단순하고 간단한 방법을 좋아합니다, 지속적인 성장을 위해 노력은 하고 있습니당~</p>
   <p>
     <a href="https://solved.ac/chanbin5634/" target="_blank">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chanbin5634" alt="Solved.ac Profile" />
@@ -9,11 +11,7 @@
   </p>
 </div>
 
-<div align="center">
-  <h2>👨‍💻 About Me</h2>
-  <p>안녕하세요! 개발이 재미 없어지고 있는 개발자입니다.<br>
-  어려운 방법보다 단순하고 간단한 방법을 좋아합니다, 지속적인 성장을 위해 노력은 하고 있습니당~</p>
-</div>
+
 
 <div>
   <h2>🛠 Tech Stack</h2>
