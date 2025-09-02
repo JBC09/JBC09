@@ -11,6 +11,7 @@
 <div align="center">
   <h2>🛠 기술 스택</h2>
 </div>
+
 <table align="center">
   <tr>
     <td align="center"><strong>📚 Languages</strong></td>
@@ -37,6 +38,30 @@
       <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
       <img src="https://img.shields.io/badge/Claude-101010?style=for-the-badge&logoColor=white" alt="Claude">
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h2>🏆 자격증</h2>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>💻 IT 자격증</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/정보처리산업기사-4CAF50?style=for-the-badge&logoColor=white" alt="정보처리산업기사">
+      <img src="https://img.shields.io/badge/정보처리기능사-66BB6A?style=for-the-badge&logoColor=white" alt="정보처리기능사">
+      <img src="https://img.shields.io/badge/웹디자인기능사-FF9800?style=for-the-badge&logoColor=white" alt="웹디자인기능사">
+      <br>
+      <img src="https://img.shields.io/badge/리눅스마스터 2급-FFC107?style=for-the-badge&logoColor=black" alt="리눅스마스터 2급">
+      <img src="https://img.shields.io/badge/네트워크관리사 2급-2196F3?style=for-the-badge&logoColor=white" alt="네트워크관리사 2급">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🚗 기타</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/운전면허 1종-9C27B0?style=for-the-badge&logoColor=white" alt="운전면허 1종">
     </td>
   </tr>
 </table>
