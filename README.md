@@ -1,6 +1,19 @@
 <div align="center">
   <h1>👋 안녕하세요, 정찬빈(Chanbin)입니다!</h1>
-  <img width="346" height="167" alt="스크린샷 2025-08-13 101052" src="https://github.com/user-attachments/assets/c4e45bf2-0f57-4380-8381-04fec1e1ba75" />
+<img 
+  src="https://github.com/user-attachments/assets/c4e45bf2-0f57-4380-8381-04fec1e1ba75" 
+  alt="스크린샷 2025-08-13 101052"
+  style="
+    width:346px;
+    height:167px;
+    border-radius:8px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.15);
+    object-fit:cover;
+    display:block;
+    margin:12px auto;
+  "
+/>
+
   <p><em>"개발이 재미없는 개발자"</em> 🤔</p>
   <p>어려운 방법보다 <strong>단순하고 간단한 방법</strong>을 선호합니다</p>
   <a href="https://solved.ac/chanbin5634/" target="_blank">
