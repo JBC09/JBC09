@@ -3,15 +3,7 @@
 <img 
   src="https://github.com/user-attachments/assets/c4e45bf2-0f57-4380-8381-04fec1e1ba75" 
   alt="스크린샷 2025-08-13 101052"
-  style="
-    width:346px;
-    height:167px;
-    border-radius:8px;
-    box-shadow:0 2px 8px rgba(0,0,0,0.15);
-    object-fit:cover;
-    display:block;
-    margin:12px auto;
-  "
+ 
 />
 
   <p><em>"개발이 재미없는 개발자"</em> 🤔</p>
