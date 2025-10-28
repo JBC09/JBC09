@@ -24,7 +24,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-555555?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
 ![SourceTree](https://img.shields.io/badge/SourceTree-555555?style=flat-square&logo=sourcetree&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-555555?style=flat-square&logo=pycharm&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-555555?style=flat-square&logo=jira&logoColor=white)
 
 ---
