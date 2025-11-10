@@ -1,7 +1,5 @@
 # 👋 안녕하세요, 정찬빈(Chanbin)입니다
 
-<img src="https://github.com/user-attachments/assets/c4e45bf2-0f57-4380-8381-04fec1e1ba75" width="160" alt="Profile" />
-
 "개발이 재미없는 개발자"  
 복잡한 방법보다 단순하고 간단한 방법을 선호합니다.
 
