@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-2E86C1?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-## 🏆 Certificates
+## Certificates
 
 ### IT
 ![정보처리산업기사](https://img.shields.io/badge/정보처리산업기사-2E86C1?style=flat-square&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 [![Email](https://img.shields.io/badge/Email-chanbin5634@gmail.com-E74C3C?style=flat-square&logo=gmail&logoColor=white)](mailto:chanbin5634@gmail.com)  
 [![Blog](https://img.shields.io/badge/Blog-cold--bean.tistory.com-F39C12?style=flat-square&logo=blogger&logoColor=white)](https://cold-bean.tistory.com/)
 
