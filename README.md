@@ -2,7 +2,7 @@
 
 취미로 개발하는 백수
 
-[solved.ac/chanbin5634](https://solved.ac/chanbin5634)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanbin5634)](https://solved.ac/chanbin5634)
 
 ---
 
