@@ -1,51 +1,50 @@
-# 정찬빈(Chanbin)
+# 정찬빈 (Chanbin)
 
-"취미로 개발하는 백수임"  
+취미로 개발하는 백수
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanbin5634)](https://solved.ac/chanbin5634/)
+[solved.ac/chanbin5634](https://solved.ac/chanbin5634)
 
 ---
 
 ## Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-2E86C1?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2E86C1?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2E86C1?style=flat-square&logo=typescript&logoColor=white)
+- C++
+- JavaScript
+- TypeScript
 
 ### Frontend
-![React](https://img.shields.io/badge/React-2E86C1?style=flat-square&logo=react&logoColor=white)
+- React
 
 ### Tools
-![CLion](https://img.shields.io/badge/CLion-555555?style=flat-square&logo=clion&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-555555?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-555555?style=flat-square&logo=sourcetree&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-555555?style=flat-square&logo=jira&logoColor=white)
+- CLion
+- VS Code
+- Git / SourceTree
+- Jira
 
 ---
 
 ## Certificates
 
 ### IT
-![정보처리산업기사](https://img.shields.io/badge/정보처리산업기사-2E86C1?style=flat-square&logoColor=white)
-![정보처리기능사](https://img.shields.io/badge/정보처리기능사-2E86C1?style=flat-square&logoColor=white)
-![웹디자인기능사](https://img.shields.io/badge/웹디자인기능사-2E86C1?style=flat-square&logoColor=white)
-![리눅스마스터 2급](https://img.shields.io/badge/리눅스마스터%202급-2E86C1?style=flat-square&logoColor=white)
-![네트워크관리사 2급](https://img.shields.io/badge/네트워크관리사%202급-2E86C1?style=flat-square&logoColor=white)
+- 정보처리산업기사
+- 정보처리기능사
+- 웹디자인기능사
+- 리눅스마스터 2급
+- 네트워크관리사 2급
 
 ### Other
-![운전면허 1종](https://img.shields.io/badge/운전면허%201종-555555?style=flat-square&logoColor=white)
+- 운전면허 1종
 
 ---
 
 ## Contact
-[![Email](https://img.shields.io/badge/Email-chanbin5634@gmail.com-E74C3C?style=flat-square&logo=gmail&logoColor=white)](mailto:chanbin5634@gmail.com)  
-[![Blog](https://img.shields.io/badge/Blog-cold--bean.tistory.com-F39C12?style=flat-square&logo=blogger&logoColor=white)](https://cold-bean.tistory.com/)
+- Email: chanbin5634@gmail.com  
+- Blog: https://cold-bean.tistory.com
 
 ---
 
-## Favorite Quote
-"사랑받기 위하여 사랑하는 것이 인간이다.  
-그러나 사랑하기 위하여 사랑하는 것은 천사에 가깝다"  
-— A.D 라마르틴
+## Quote
+> 사랑받기 위하여 사랑하는 것이 인간이다.  
+> 그러나 사랑하기 위하여 사랑하는 것은 천사에 가깝다  
+> — A. D. 라마르틴
